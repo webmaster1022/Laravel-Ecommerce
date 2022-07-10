@@ -62,5 +62,3 @@ sudo chmod -R 777 settings.json
 ## Notes
 if you need countries, states, cities data (change database in public/ecommerce_world.sql line 22)
 
-## Contact
-* [Ali AlQahtani](https://alialqahtani.sa/#contacts)
